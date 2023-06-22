@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech aspiring Computer Engineer with 3 years of experience in developing projects related to machine learning and web development and one publication.
+BTech certified Computer Engineer with 3 years of experience in developing projects related to machine learning and web development and one publication.
 
 
 ## 🌐 Socials:
