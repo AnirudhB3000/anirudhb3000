@@ -6,7 +6,8 @@ I'm Anirudh Bhattacharya, a B.Tech certified and MS aspiring software engineer b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anirudh-bhattacharya-b2496a1ba/) 
 
 # 🎓 Education:
-[![USC]](![image](https://github.com/AnirudhB3000/anirudhb3000/assets/73433106/9b0411de-d6cd-44b8-aca3-4c237b93afbd)
+## University of Southern California
+#### Computer Science 2025
 
 
 # 💻 Skills:
