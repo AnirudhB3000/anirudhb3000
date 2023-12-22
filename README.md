@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Anirudh Bhattacharya, a B.Tech certified and MS aspiring software engineer based in Los Angeles, CA. With a strong background in computer science and a focus on AI, Cloud Computing and Distrubution, I possess knowledge in neural networks, computer vision, Kubernetes, Docker and Hadoop. I am skilled in Python, C#, R, C, JavaScript, and Java, and have experience with frameworks like TensorFlow, Keras, Django, ASP.NET, Express and React.JS. I am dedicated to building innovative solutions and have completed projects in the field of AI, web development, information retrieval and cloud computing.
+Hello, I'm Anirudh Bhattacharya, a Software Engineer currently pursuing my Master's in Computer Science at USC. With a background in Computer Science, I've contributed to projects in machine learning, cloud computing, web development, and more. Proficient in a variety of languages, I'm passionate about exploring diverse fields within the tech landscape. Let's connect for a chat about our shared interests and experiences in the world of technology!
 
 
 ## 🌐 Socials:
