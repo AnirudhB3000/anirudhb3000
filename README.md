@@ -16,7 +16,7 @@ Hello, I'm Anirudh Bhattacharya, a Software Engineer currently pursuing my Maste
 ##### •	Improving void detection accuracy in composite oriented strand board (COSB) materials up to 90%+ by processing micro-CT imagery detected data, solving permutational variance, rotational invariance with state-of-the-art algorithms on HPC systems.
 ##### •	Augmenting domain of research from 2D to 3D analysis of voids in COSB with captured and generated imagery.
 
-# 📃Mu publication :
+# 📃My publication :
 ## Feedback Based Telecom Churn Prediction Using Machine Learning
 ### doi: 10.1109/ICAST55766.2022.10039530
 #### Abstract:
